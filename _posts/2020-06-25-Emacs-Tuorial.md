@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Emacs tutorial(One)"
+date: 2020-06-24 22:30:00 +0800
+---
+
  #  Emacs tutorial
 
 [toc]
